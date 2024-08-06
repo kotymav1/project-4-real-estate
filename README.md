@@ -4,6 +4,10 @@
 
 https://docs.google.com/presentation/d/1dwA9-JyuQVaebs8qd6LpnhV7a7wz11UBzeDLj_RRtcQ/edit?usp=sharing
 
+https://docs.google.com/presentation/d/1dwA9-JyuQVaebs8qd6LpnhV7a7wz11UBzeDLj_RRtcQ/edit?usp=sharing
+
+https://public.tableau.com/app/profile/edward.kaczmarek/viz/shared/9W6FWHKYH
+
 ### Group 1
 Vaibhav Chourasia, Eddie Kaczmarek, Koty Potts, Breanna Roybal
 
