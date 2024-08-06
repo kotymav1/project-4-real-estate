@@ -1,7 +1,8 @@
 # project-4-real-estate
 
-
 ## Real Estate Sales Price Analysis and Prediction
+
+https://docs.google.com/presentation/d/1dwA9-JyuQVaebs8qd6LpnhV7a7wz11UBzeDLj_RRtcQ/edit?usp=sharing
 
 ### Group 1
 Vaibhav Chourasia, Eddie Kaczmarek, Koty Potts, Breanna Roybal
