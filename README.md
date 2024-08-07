@@ -4,7 +4,7 @@
 
 https://docs.google.com/presentation/d/1dwA9-JyuQVaebs8qd6LpnhV7a7wz11UBzeDLj_RRtcQ/edit?usp=sharing
 
-https://docs.google.com/presentation/d/1dwA9-JyuQVaebs8qd6LpnhV7a7wz11UBzeDLj_RRtcQ/edit?usp=sharing
+https://public.tableau.com/app/profile/breanna.roybal/viz/Project4-RealEstate/PriceMedianvsBeds
 
 https://public.tableau.com/app/profile/edward.kaczmarek/viz/shared/9W6FWHKYH
 
