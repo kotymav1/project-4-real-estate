@@ -8,14 +8,11 @@ https://public.tableau.com/app/profile/breanna.roybal/viz/Project4-RealEstate/Pr
 
 https://public.tableau.com/app/profile/edward.kaczmarek/viz/shared/9W6FWHKYH
 
-### Group 1
-Vaibhav Chourasia, Eddie Kaczmarek, Koty Potts, Breanna Roybal
-
 ## Objective
-The goal of our project is to analyze real estate sales data and build a machine learning model to assist investors based on various features such as the number of bedrooms, bathrooms, location, and square footage. We will also visualize the trends and patterns in the real estate market using the technologies we have learned.
+The goal of this project is to analyze real estate sales data and build a machine learning model to assist investors based on various features such as the number of bedrooms, bathrooms, location, and square footage. We will also visualize the trends and patterns in the real estate market using the technologies we have learned.
 
 ## Data Description
-Our data set is provided by Kaggle, and contains the following columns:
+This data set is provided by Kaggle, and contains the following columns:
 
 - brokered_by
     - Broker / Agency encoded
